@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3925-concatenate-array-with-reverse](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
 |  |
