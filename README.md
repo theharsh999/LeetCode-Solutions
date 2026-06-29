@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [3945-digit-frequency-score](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3945-digit-frequency-score) |
 ## Backtracking
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Greedy
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
