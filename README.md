@@ -85,9 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
