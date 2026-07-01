@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0141-linked-list-cycle) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) | Medium |
 | [0206-reverse-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
