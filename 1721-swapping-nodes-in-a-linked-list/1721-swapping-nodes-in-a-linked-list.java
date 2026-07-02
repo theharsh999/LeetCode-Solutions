@@ -20,33 +20,22 @@ class Solution {
             temp = temp.next;
         }
 
-        int st = -1;
-        int end = -1;
+        ListNode firstNode = null;
+        ListNode secondNode = null;
         temp = head;
         for(int i=1; i<=size; i++){
             if(i == k){
-                st = temp.val;
-            }else if(i == size+1-k){
-                end = temp.val;
+                firstNode = temp;
+            }
+            if(i == size+1-k){
+                secondNode = temp;
             }
             temp = temp.next;
         }
 
-        if(st == -1 || end == -1) return head;
-
-        int tempVal = st;
-        st = end;
-        end = tempVal;
-
-        temp = head;
-        for(int i=1; i<=size; i++){
-            if(i == k){
-                temp.val = st;
-            }else if(i == size+1-k){
-                temp.val = end;
-            }
-            temp = temp.next;
-        }
+        int tempVal = firstNode.val;
+        firstNode.val = secondNode.val;
+        secondNode.val = tempVal;
 
         return head;
     }
