@@ -13,25 +13,25 @@ class Solution {
         if(head == null || head.next == null){
             return head;
         }
-        int size = 0;
-        ListNode temp = head;
-        while(temp != null){
-            size++;
-            temp = temp.next;
-        }
-
         ListNode firstNode = null;
         ListNode secondNode = null;
-        temp = head;
-        for(int i=1; i<=size; i++){
-            if(i == k){
-                firstNode = temp;
+        int i = k;
+        ListNode temp = head;
+        ListNode temp2 = head;
+
+        while(temp != null){
+            if(i > 0){
+                i--;
+            }else{
+                temp2 = temp2.next;
             }
-            if(i == size+1-k){
-                secondNode = temp;
+
+            if(i==0 && firstNode == null){
+                firstNode = temp;
             }
             temp = temp.next;
         }
+        secondNode = temp2;
 
         int tempVal = firstNode.val;
         firstNode.val = secondNode.val;
