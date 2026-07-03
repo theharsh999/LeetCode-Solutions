@@ -1,7 +1,5 @@
 class Solution {
     public boolean isValid(String s) {
-        if (s.length() == 1)
-            return false;
         Stack<Character> stk = new Stack<>();
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
@@ -10,7 +8,7 @@ class Solution {
             } else if (!stk.isEmpty() && ((stk.peek() == '(' && ch == ')') || (stk.peek() == '[' && ch == ']')
                     || (stk.peek() == '{' && ch == '}'))) {
                 stk.pop();
-            }else{
+            } else {
                 return false;
             }
         }
