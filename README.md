@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0070-climbing-stairs) | Easy |
 | [0189-rotate-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0189-rotate-array) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) | Easy |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
