@@ -1,41 +1,26 @@
 class Solution {
     public String simplifyPath(String path) {
-        Stack<String> s = new Stack<>();
-        StringBuilder sb = new StringBuilder();
+        Stack<String> stack = new Stack<>();
+        String[] parts = path.split("/");
 
-        for (int i = 0; i < path.length(); i++) {
-            char ch = path.charAt(i);
-            String curr = sb.toString();
-            if (ch == '/') {
-                if (curr.equals("..") && !s.isEmpty()) {
-                    s.pop();
-                } else if (!curr.equals("") && !curr.equals(".") && !curr.equals("..")) {
-                    s.push(curr);
+        for (String part : parts) {
+            if (part.equals("") || part.equals(".")) {
+                continue;
+            } else if (part.equals("..")) {
+                if (!stack.isEmpty()) {
+                    stack.pop();
                 }
-                sb = new StringBuilder();
             } else {
-                sb.append(ch);
+                stack.push(part);
             }
         }
-        if (!sb.toString().equals("")) {
-            if(sb.toString().equals("..")){
-                if(!s.isEmpty()){
-                    s.pop();
-                }
-            }else if(!sb.toString().equals(".")){
-                s.push(sb.toString());
-            }
-            sb = new StringBuilder();
+
+        StringBuilder result = new StringBuilder();
+
+        for (String dir : stack) {
+            result.append("/").append(dir);
         }
 
-        for(String dir: s){
-            sb.append("/");
-            sb.append(dir);
-        }
-
-        if(sb.toString().equals("")){
-            return "/";
-        }
-        return sb.toString();
+        return result.length() == 0 ? "/" : result.toString();
     }
 }
