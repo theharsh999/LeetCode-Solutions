@@ -15,8 +15,7 @@ class Solution {
         int maxSum = 0;
 
         while(rightHead != null){
-            int currSum = 0;
-            currSum = head.val + rightHead.val;
+            int currSum = head.val + rightHead.val;
             maxSum = Math.max(currSum, maxSum);
             head = head.next;
             rightHead = rightHead.next;
