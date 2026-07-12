@@ -13,14 +13,12 @@ class Solution {
             }
         }
 
-        int ans[] = new int[arr.length];
-
         // rank the elements in arr
         for (int i = 0; i < arr.length; i++) {
-            ans[i] = binarySearch(copy, arr[i], j) + 1;
+            arr[i] = binarySearch(copy, arr[i], j) + 1;
         }
 
-        return ans;
+        return arr;
     }
 
     private int binarySearch(int[] arr, int target, int last) {
