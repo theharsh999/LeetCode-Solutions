@@ -200,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1291-sequential-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
 <!---LeetCode Topics End-->
