@@ -1,16 +1,12 @@
 class Solution {
     public int findTheWinner(int n, int k) {
-        Deque<Integer> dq = new ArrayDeque<>();
-        for(int i=1; i<=n; i++){
-            dq.add(i);
+        return solve(n,k) + 1; 
+    }
+
+    public int solve(int n, int k){
+        if(n == 1){
+            return 0;
         }
-        while(dq.size() > 1){
-            int temp = k;
-            while(temp-- > 1){
-                dq.add(dq.remove());
-            }
-            dq.remove();
-        }
-        return dq.remove();
+        return (solve(n-1, k) + k) % n;
     }
 }
