@@ -12,9 +12,11 @@ class Solution {
                 arr[x++] = grid[i][j];
             }
         }
-        reverse(arr, 0, total - 1);
-        reverse(arr, 0, k - 1);
-        reverse(arr, k, total - 1);
+        if (k != 0) {
+            reverse(arr, 0, total - 1);
+            reverse(arr, 0, k - 1);
+            reverse(arr, k, total - 1);
+        }
 
         List<List<Integer>> ans = new ArrayList<>();
         for (int i = 0; i < m; i++) {
