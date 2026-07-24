@@ -5,20 +5,19 @@ class Solution {
             dq.add(i);
         }
         int timeCount = 0;
-        
-        while(!dq.isEmpty()){
-            if(tickets[k] == 0){
-                return timeCount;
-            }
-            if(tickets[dq.peek()] > 1){
-                tickets[dq.peek()]--;
+
+        while (!dq.isEmpty()) {
+            int x = dq.peek();
+            tickets[x]--;
+            timeCount++;
+
+            if (tickets[x] > 0)
                 dq.add(dq.remove());
-                timeCount++;
-            }else{
-                tickets[dq.peek()]--;
+            else
                 dq.remove();
-                timeCount++;
-            }
+
+            if (tickets[k] == 0)
+                return timeCount;
         }
 
         return timeCount;
