@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
