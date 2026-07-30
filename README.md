@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
+| [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0394-decode-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0037-sudoku-solver) | Hard |
+| [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Binary Tree
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
