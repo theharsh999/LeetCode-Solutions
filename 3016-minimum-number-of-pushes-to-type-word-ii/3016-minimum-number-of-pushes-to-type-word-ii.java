@@ -8,6 +8,7 @@ class Solution {
         Arrays.sort(freq);
         int pos = 0;
         for(int i=25; i>=0; i--){
+            if(freq[i] == 0) break;
             cost += freq[i] * (pos/8 + 1);
             pos++;
         }
