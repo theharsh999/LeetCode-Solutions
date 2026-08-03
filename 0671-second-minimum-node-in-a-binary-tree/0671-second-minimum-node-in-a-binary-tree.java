@@ -15,29 +15,23 @@
  */
 class Solution {
     public int findSecondMinimumValue(TreeNode root) {
-        dfs(root);
-        if (!isMin2)
-            return -1;
-        return (int)min2;
+        int min = root.val;
+        dfs(root, min);
+        if(ans == Long.MAX_VALUE) return -1;
+        return (int)ans;
     }
 
-    long min1 = Long.MAX_VALUE;
-    long min2 = Long.MAX_VALUE;
-    public boolean isMin2 = false;
+    public long ans = Long.MAX_VALUE;
 
-    private void dfs(TreeNode root) {
-        if (root == null) {
+    public void dfs(TreeNode node, int min){
+        if(node == null){
             return;
         }
-        if (root.val < min1) {
-            min2 = min1;
-            min1 = root.val;
-        } else if (root.val < min2 && root.val > min1) {
-            isMin2 = true;
-            min2 = root.val;
+        if(node.val > min){
+            ans = Math.min(ans,node.val);
+            return;
         }
-        dfs(root.left);
-        dfs(root.right);
-        return;
+        dfs(node.left, min);
+        dfs(node.right, min);
     }
 }
