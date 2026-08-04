@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) | Easy |
 | [3467-transform-array-by-parity](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3731-find-missing-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3945-digit-frequency-score) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
