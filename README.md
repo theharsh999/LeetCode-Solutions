@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0226-invert-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
