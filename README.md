@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1260-shift-2d-grid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0901-online-stock-span](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0901-online-stock-span](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -364,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0671-second-minimum-node-in-a-binary-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1325-delete-leaves-with-a-given-value](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -394,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
