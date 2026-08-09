@@ -21,32 +21,20 @@ class Solution {
         return count[0];
     }
 
-    public int[] helper(TreeNode root){
+    public int[] dfs(TreeNode root, int count[]){
         if(root == null){
             return new int[]{0,0};
         }
-        if(root.left == null && root.right == null){
-            return new int[]{root.val,1};
-        }
-        int left[] = helper(root.left);
-        int right[] = helper(root.right);
+        int left[] = dfs(root.left, count);
+        int right[] = dfs(root.right, count);
 
         int sum = root.val + left[0] + right[0];
-        int count = 1 + left[1] + right[1];
+        int freq = 1 + left[1] + right[1];
 
-        return new int[]{sum, count};
-    }
-
-    public void dfs(TreeNode root, int count[]){
-        if(root == null){
-            return;
-        }
-        int pair[] = helper(root);
-        int avg = pair[0]/pair[1];
+        int avg = sum/freq;
         if(avg == root.val){
             count[0]++;
         }
-        dfs(root.left, count);
-        dfs(root.right, count);
+        return new int[]{sum,freq};
     }
 }
