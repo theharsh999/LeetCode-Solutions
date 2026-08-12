@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -429,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
