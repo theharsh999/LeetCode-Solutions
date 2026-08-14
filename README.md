@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3945-digit-frequency-score](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3945-digit-frequency-score) | Easy |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
