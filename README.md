@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0189-rotate-array) | Medium |
 | [0238-product-of-array-except-self](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0070-climbing-stairs) | Easy |
 | [0189-rotate-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0189-rotate-array) | Medium |
 | [0202-happy-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -470,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
