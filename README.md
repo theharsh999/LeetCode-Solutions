@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0141-linked-list-cycle](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0141-linked-list-cycle) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Heap (Priority Queue)
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0144-binary-tree-preorder-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
