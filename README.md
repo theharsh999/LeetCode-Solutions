@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0070-climbing-stairs) | Easy |
 | [0189-rotate-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0189-rotate-array) | Medium |
 | [0202-happy-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1260-shift-2d-grid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
