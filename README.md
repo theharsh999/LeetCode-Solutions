@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0538-convert-bst-to-greater-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0538-convert-bst-to-greater-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
