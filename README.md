@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1302-deepest-leaves-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0938-range-sum-of-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0938-range-sum-of-bst/) | Easy |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
