@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
