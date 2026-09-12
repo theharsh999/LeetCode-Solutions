@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1260-shift-2d-grid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -291,12 +293,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0191-number-of-1-bits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -570,4 +575,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
