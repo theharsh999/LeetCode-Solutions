@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/theharsh999/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) | Easy |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-delete-leaves-with-a-given-value](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3997-count-dominant-nodes-in-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -549,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-univalued-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1302-deepest-leaves-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1302-deepest-leaves-sum/) | Medium |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Easy |
+| [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -600,4 +606,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
