@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2974-minimum-number-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2974-minimum-number-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) | Easy |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2974-minimum-number-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [2974-minimum-number-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
