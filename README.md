@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0506-relative-ranks](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0506-relative-ranks](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0506-relative-ranks](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0506-relative-ranks/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
