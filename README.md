@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) | Easy |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
@@ -365,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
