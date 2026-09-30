@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
+| [2413-smallest-even-multiple](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2652-sum-multiples](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0258-add-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
