@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/theharsh999/LeetCode-Solutions/tree/master/0070-climbing-stairs) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0338-counting-bits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0338-counting-bits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0338-counting-bits/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
