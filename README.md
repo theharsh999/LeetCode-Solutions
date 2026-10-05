@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0856-score-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0856-score-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0856-score-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
