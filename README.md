@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0856-score-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1382-balance-a-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0856-score-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0901-online-stock-span](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -690,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0856-score-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
