@@ -1,22 +1,20 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        Deque<Character> stk = new ArrayDeque<>();
-        int count = 0;
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == '(') {
-                stk.push('(');
+        int open = 0;
+        int ans = 0;
+
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                open++;
             } else {
-                if (!stk.isEmpty()) {
-                    stk.pop();
+                if (open > 0) {
+                    open--;
                 } else {
-                    count++;
+                    ans++;
                 }
             }
         }
-        while (!stk.isEmpty()) {
-            stk.pop();
-            count++;
-        }
-        return count;
+
+        return ans + open;
     }
 }
