@@ -6,13 +6,8 @@ class Solution {
         }
         Arrays.sort(nums);
 
-        long left = 0, right = 0;
-        for(int i=0; i<n/2; i++){
-            left += nums[i];
-        }
-        for(int i=n/2; i<n; i++){
-            right += nums[i];
-        }
+        long left = Arrays.stream(nums).limit(n/2).asLongStream().sum();
+        long right = Arrays.stream(nums).skip(n/2).asLongStream().sum();
         return right-left;
     }
 }
