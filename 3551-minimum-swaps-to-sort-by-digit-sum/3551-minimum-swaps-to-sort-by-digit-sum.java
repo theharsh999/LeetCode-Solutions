@@ -3,13 +3,13 @@ class Solution {
     public int minSwaps(int[] nums) {
         int n = nums.length;
 
-        // Step 1: Create Integer array with original indices
+        // Create Integer array with original indices
         Integer[] indices = new Integer[n];
         for (int i = 0; i < n; i++) {
             indices[i] = i;
         }
 
-        // Step 2: Sort indices based on digit sum of nums[index]
+        // Sort indices based on digit sum of nums[index]
         Arrays.sort(indices, (a, b) -> {
             int sumA = digitSum(nums[a]);
             int sumB = digitSum(nums[b]);
@@ -21,7 +21,7 @@ class Solution {
             return Integer.compare(nums[a], nums[b]);
         });
 
-        // Step 3: Use sorted indices to detect cycles
+        // Use sorted indices to detect cycles
         boolean[] visited = new boolean[n];
         int swaps = 0;
 
