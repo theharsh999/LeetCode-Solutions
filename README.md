@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2652-sum-multiples](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
+| [2427-number-of-common-factors](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1291-sequential-digits/) | Medium |
+| [2427-number-of-common-factors](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
@@ -750,4 +753,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
