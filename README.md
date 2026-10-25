@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) | Easy |
+| [2129-capitalize-the-title](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2409-count-days-spent-together](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
