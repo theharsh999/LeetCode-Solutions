@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) | Easy |
 | [2129-capitalize-the-title](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2409-count-days-spent-together](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [2185-counting-words-with-a-given-prefix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
