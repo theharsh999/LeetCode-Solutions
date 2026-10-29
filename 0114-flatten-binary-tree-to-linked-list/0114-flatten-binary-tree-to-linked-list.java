@@ -15,27 +15,26 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        ArrayList<Integer> arr = new ArrayList<>();
-        inorder(root, arr);
+        while (root != null) {
 
-        for(int i=1; i<arr.size(); i++){
-            root.left = null;
-            if(root.right != null){
-                root.right.val = arr.get(i);
-            }else{
-                root.right = new TreeNode(arr.get(i));
+            if (root.left != null) {
+                TreeNode prev = root.left;
+
+                // Find the rightmost node of left subtree
+                while (prev.right != null) {
+                    prev = prev.right;
+                }
+
+                // Connect right subtree to the predecessor
+                prev.right = root.right;
+
+                // Move left subtree to the right
+                root.right = root.left;
+                root.left = null;
             }
+
+            // Move to the next node
             root = root.right;
         }
-        return;
-    }
-
-    public void inorder(TreeNode root, ArrayList<Integer> arr){
-        if(root == null){
-            return;
-        }
-        arr.add(root.val);
-        inorder(root.left, arr);
-        inorder(root.right, arr);
     }
 }
