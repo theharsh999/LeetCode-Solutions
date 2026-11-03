@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1260-shift-2d-grid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
