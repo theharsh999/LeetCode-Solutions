@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1394-find-lucky-integer-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
