@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0836-rectangle-overlap/) | Easy |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0268-missing-number](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
