@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0763-partition-labels](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0856-score-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0763-partition-labels](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0763-partition-labels](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0763-partition-labels](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
