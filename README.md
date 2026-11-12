@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
