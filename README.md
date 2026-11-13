@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1663-smallest-string-with-a-given-numeric-value/) | Medium |
 | [1773-count-items-matching-a-rule](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2206-divide-array-into-equal-pairs](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2206-divide-array-into-equal-pairs/) | Easy |
