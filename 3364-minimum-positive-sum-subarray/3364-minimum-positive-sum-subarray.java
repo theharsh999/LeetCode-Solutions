@@ -4,22 +4,16 @@ class Solution {
         int ans = Integer.MAX_VALUE;
 
         for (int i = 0; i < n; i++) {
-            for (int len = l; len <= r; len++) {
-                if (i + len > n) {
-                    break;
-                }
-                int sum = 0;
+            int sum = 0;
+            for (int j = i; j < n && j - i + 1 <= r; j++) {
+                sum += nums.get(j);
+                int len = j - i + 1;
 
-                for (int j = i; j < i + len; j++) {
-                    sum += nums.get(j);
-                }
-
-                if (sum > 0) {
+                if (len >= l && sum > 0) {
                     ans = Math.min(ans, sum);
                 }
             }
         }
-
         return ans == Integer.MAX_VALUE ? -1 : ans;
     }
 }
