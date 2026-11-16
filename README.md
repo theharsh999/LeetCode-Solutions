@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/theharsh999/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) | Easy |
 | [2129-capitalize-the-title](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2129-capitalize-the-title/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2409-count-days-spent-together/) | Easy |
 | [2418-sort-the-people](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2974-minimum-number-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
