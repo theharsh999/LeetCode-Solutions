@@ -1,36 +1,21 @@
 class MyHashMap {
 
-    List<List<Integer>> map = new ArrayList<>();
+    int[] arr = new int[1_000_001];
 
     public MyHashMap() {
+        Arrays.fill(arr, -1);
     }
 
     public void put(int key, int value) {
-        for (int i = 0; i < map.size(); i++) {
-            if (map.get(i).get(0) == key) {
-                map.get(i).set(1, value);
-                return;
-            }
-        }
-        map.add(new ArrayList<>(Arrays.asList(key, value)));
+        arr[key] = value;
     }
 
     public int get(int key) {
-        for (int i = 0; i < map.size(); i++) {
-            if (map.get(i).get(0) == key) {
-                return map.get(i).get(1);
-            }
-        }
-        return -1;
+        return arr[key];
     }
 
     public void remove(int key) {
-        for (int i = 0; i < map.size(); i++) {
-            if (map.get(i).get(0) == key) {
-                map.remove(i);
-                return;
-            }
-        }
+        arr[key] = -1;
     }
 }
 
