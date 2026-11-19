@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2208-minimum-operations-to-halve-array-sum/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2418-sort-the-people](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2418-sort-the-people/) | Easy |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/2974-minimum-number-game/) | Easy |
