@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3271-hash-divided-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3271-hash-divided-string/) | Medium |
+| [3360-stone-removal-game](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3894-traffic-signal-color](https://github.com/theharsh999/LeetCode-Solutions/tree/main/3894-traffic-signal-color/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/theharsh999/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) | Easy |
