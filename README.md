@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0508-most-frequent-subtree-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0706-design-hashmap](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0763-partition-labels](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0508-most-frequent-subtree-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0508-most-frequent-subtree-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 | [0538-convert-bst-to-greater-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0538-convert-bst-to-greater-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -771,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0508-most-frequent-subtree-sum](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0508-most-frequent-subtree-sum/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
