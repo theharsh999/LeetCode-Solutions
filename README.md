@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0706-design-hashmap](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
+| [0811-subdomain-visit-count](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0763-partition-labels](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [0856-score-of-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0706-design-hashmap](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0706-design-hashmap/) | Easy |
 | [0763-partition-labels](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0763-partition-labels/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0811-subdomain-visit-count](https://github.com/theharsh999/LeetCode-Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/theharsh999/LeetCode-Solutions/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
